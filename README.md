@@ -8,9 +8,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusheryanto182&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
-<h1 align="center">Halo, Saya Agus Heryanto</h1>
-<p align="center">Saya sangat tertarik di bidang Back-End Developer</p>
-
 <h2 align="center">Tentang Saya</h2>
 <p align="center">
 Saya adalah seorang mahasiswa di Universitas Amikom Yogyakarta yang saat ini sedang menempuh pendidikan S1 Informatika. 
