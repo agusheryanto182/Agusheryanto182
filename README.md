@@ -32,7 +32,7 @@ I am an Informatics student at Amikom University Yogyakarta who has a passion fo
   <a href="https://www.instagram.com/agusheryanto182/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://www.linkedin.com/in/agusheryanto182/">
+  <a href="https://www.linkedin.com/in/agus-heryanto-b34561284/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
