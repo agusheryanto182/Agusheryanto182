@@ -4,8 +4,8 @@
 - 💞️ I want to collaborate in developing a mobile or web application.
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=agusheryanto182&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusheryanto182&layout=compact&langs_count=8&theme=dark"/>
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=agusheryanto182&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusheryanto182&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
 <h1 align="center">Halo, Saya Agus Heryanto</h1>
