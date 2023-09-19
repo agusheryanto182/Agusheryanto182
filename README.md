@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Agusheryanto182
 - 👀 I’m interested in Backend Developer
 - 🌱 I’m currently learning Go language
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I want to collaborate in developing a mobile or web application.
 
 <p align="left">
 <a href="https://github.com/dimasmds">
