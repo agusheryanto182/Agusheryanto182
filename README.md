@@ -1,12 +1,11 @@
-<h1 align="center">Selamat Datang di Profil Saya!</h1>
+<h1 align="center">Welcome to my profile!</h1>
 <p align="center">
-  <samp>Hi, Saya Agus Heryanto! 👋<br>
-  Mahasiswa Informatika di Universitas Amikom Yogyakarta 🎓<br>
-  Seorang Backend Developer 💻<br>
-  Minat dalam pemrograman dan pengembangan aplikasi dan web 🌐<br>
-  Sedang belajar bahasa Go untuk mengembangkan aplikasi yang tangguh! 🚀<br>
-  Saya senang berkolaborasi dalam proyek web dan mobile. 👯‍♂️<br>
-  </samp>
+<samp>Hi, I'm Agus Heryanto! 👋<br>
+  Informatics Student at Amikom University Yogyakarta 🎓<br>
+  Interest in programming and backend development🌐<br>
+  Currently learning Go language to develop powerful applications! 🚀<br>
+  I enjoy collaborating on web and mobile projects. 👯‍♂️<br>
+  </sample>
 </p>
 
 <p align="center">
@@ -14,19 +13,22 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusheryanto182&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
-<h2 align="center">Tentang Saya</h2>
+<h2 align="center">About Me</h2>
 <p align="center">
-  Saya adalah seorang mahasiswa Informatika di Universitas Amikom Yogyakarta yang memiliki semangat dalam pengembangan perangkat lunak. Saya selalu mencari peluang untuk memperluas pengetahuan dan keterampilan saya dalam dunia pemrograman.
+I am an Informatics student at Amikom University Yogyakarta who has a passion for software development. I am always looking for opportunities to expand my knowledge and skills in the world of programming.
 </p>
 
-<h2 align="center">Bahasa Pemrograman Favorit</h2>
+<h2 align="center">Favorite Programming Language</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </p>
 
-<h2 align="center">Hubungi Saya</h2>
+<h2 align="center">Contact Me</h2>
 <p align="center">
+  <a href="mailto:agusheryanto.business@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
   <a href="https://www.instagram.com/agusheryanto182/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
