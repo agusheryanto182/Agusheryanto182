@@ -24,6 +24,12 @@ I am an Informatics student at Amikom University Yogyakarta who has a passion fo
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </p>
 
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=agusheryanto182&layout=compact&langs_count=8&theme=algolia" alt="Trophy" align="center" style="margin: 0 auto;">
+</p>
+
+
 <h2 align="center">Contact Me</h2>
 <p align="center">
   <a href="mailto:agusheryanto.business@gmail.com">
