@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=agusheryanto182&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=agusheryanto182&theme=algolia&border_radius=10"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusheryanto182&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
@@ -42,3 +42,10 @@ I am an Informatics student at Amikom University Yogyakarta who has a passion fo
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <div id="badges">
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=agusheryanto182&style=flat-square&color=blue" alt=""/>
+  </div>
