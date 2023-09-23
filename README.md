@@ -44,7 +44,7 @@ I am an Informatics student at Amikom University Yogyakarta who has a passion fo
 </p>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="100"/>
   <div id="badges">
   </div>
   <img src="https://komarev.com/ghpvc/?username=agusheryanto182&style=flat-square&color=blue" alt=""/>
