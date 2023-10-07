@@ -2,7 +2,7 @@
 <p align="center">
 <samp>Hi, I'm Agus Heryanto! 👋<br>
   Informatics Student at Amikom University Yogyakarta 🎓<br>
-  Interest in programming and backend development🌐<br>
+  Interest in backend development🌐<br>
   Currently learning Go language to develop powerful applications! 🚀<br>
   I enjoy collaborating on web and mobile projects. 👯‍♂️<br>
   </sample>
@@ -15,7 +15,7 @@
 
 <h2 align="center">About Me</h2>
 <p align="center">
-I am an Informatics student at Amikom University Yogyakarta who has a passion for software development. I am always looking for opportunities to expand my knowledge and skills in the world of programming.
+I am an Informatics student at Amikom University Yogyakarta who has a passion for backend development I am always looking for opportunities to expand my knowledge and skills in the world of programming.
 </p>
 
 <h2 align="center">Favorite Programming Language</h2>
