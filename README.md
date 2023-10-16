@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my profile!</h1>
 <p align="center">
 <samp>Hi, I'm Agus Heryanto! 👋<br>
-  Informatics Student at Amikom University Yogyakarta 🎓<br>
+  I'm Informatics Student at Amikom University Yogyakarta 🎓<br>
   Interest in backend development🌐<br>
   Currently learning Go language to develop powerful applications! 🚀<br>
   I enjoy collaborating on web and mobile projects. 👯‍♂️<br>
