@@ -1,4 +1,3 @@
-<h1 align="center">Welcome to my profile!</h1>
 <p align="center">
 <samp>Hi, I'm Agus Heryanto! 👋<br>
   I'm Informatics Student at Amikom Yogyakarta University 🎓<br>
