@@ -12,13 +12,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusheryanto182&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
-<h2 align="center">About Me</h2>
-<p align="center">
-I am an Informatics student at Amikom University Yogyakarta who has a passion for backend development I am always looking for opportunities to expand my knowledge and skills in the world of programming.
-</p>
-
-
-
 <h2 align="center">Tools</h2>
 
 <p align="center">
