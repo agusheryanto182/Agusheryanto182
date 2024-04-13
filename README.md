@@ -11,9 +11,8 @@
   <img height="180em" src="https://streak-stats.demolab.com?user=agusheryanto182&theme=algolia&border_radius=10"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusheryanto182&layout=compact&langs_count=8&theme=algolia"/>
 </p>
-
-<h2 align="center">Tools</h2>
-
+<br>
+<h2 align="center">Tech Stack</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
@@ -29,15 +28,11 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
 </p>
 
-
-
-
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=agusheryanto182&layout=compact&langs_count=8&theme=algolia" alt="Trophy" align="center" style="margin: 0 auto;">
 </p>
 
-
+<br>
 <h2 align="center">Contact Me</h2>
 <p align="center">
   <a href="mailto:agusheryanto.business@gmail.com">
@@ -57,3 +52,5 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=agusheryanto182&style=flat-square&color=blue" alt=""/>
   </div>
+
+  
