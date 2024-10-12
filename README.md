@@ -1,11 +1,11 @@
 <p align="center">
 <samp>Hi, I'm Agus Heryanto! 👋<br>
-  I'm Informatics Student at Amikom Yogyakarta University 🎓<br>
-  Interest in backend development🌐<br>
-  Currently learning Go language to develop powerful applications! 🚀<br>
+  I'm an Informatics Student at Amikom Yogyakarta University 🎓<br>
+  Interested in full-stack development 🌐<br>
+  Currently learning to become a full-stack developer using JavaScript! 🚀<br>
   I enjoy collaborating on web and mobile projects. 👯‍♂️<br>
-  </sample>
-</p>
+</samp>
+
 
 <p align="center">
   <img height="180em" src="https://streak-stats.demolab.com?user=agusheryanto182&theme=algolia&border_radius=10"/>
@@ -15,7 +15,8 @@
 <h2 align="center">Tech Stack</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
