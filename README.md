@@ -20,11 +20,6 @@
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=agusheryanto182&theme=react-dark"/>
 </p>
 
-<!-- Snake Animation -->
-<p align="center">
-  <img src="https://github.com/agusheryanto182/agusheryanto182/blob/output/github-contribution-grid-snake.svg"/>
-</p>
-
 <!-- Dev Quote -->
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia"/>
