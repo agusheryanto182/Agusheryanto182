@@ -10,9 +10,13 @@
 
 <!-- GitHub Stats -->
 <div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=agusheryanto182&theme=algolia&border_radius=10"/>
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=agusheryanto182&show_icons=true&theme=algolia"/> -->
+  <!-- <img height="180em" src="https://streak-stats.demolab.com?user=agusheryanto182&theme=algolia&border_radius=10"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=agusheryanto182&show_icons=true&theme=algolia"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusheryanto182&layout=compact&langs_count=8&theme=algolia"/>
+</div>
+
+<div align="center">
+    <img height="180em" src="https://streak-stats.demolab.com?user=agusheryanto182&theme=algolia&border_radius=10"/>
 </div>
 
 <!-- Activity Graph -->
