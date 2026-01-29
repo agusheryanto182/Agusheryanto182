@@ -11,12 +11,16 @@
 <!-- GitHub Stats -->
 <div align="center">
   <!-- <img height="180em" src="https://streak-stats.demolab.com?user=agusheryanto182&theme=algolia&border_radius=10"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=agusheryanto182&show_icons=true&theme=algolia"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusheryanto182&layout=compact&langs_count=8&theme=algolia"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=agusheryanto182&show_icons=true&theme=algolia"/> -->
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusheryanto182&layout=compact&langs_count=8&theme=algolia"/> -->
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=agusheryanto182&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=agusheryanto182&layout=compact&langs_count=8&theme=algolia"/>
 </div>
 
 <div align="center">
-    <img height="180em" src="https://streak-stats.demolab.com?user=agusheryanto182&theme=algolia&border_radius=10"/>
+    <!-- <img height="180em" src="https://streak-stats.demolab.com?user=agusheryanto182&theme=algolia&border_radius=10"/> -->
+    <!-- <img height="180em" src="https://streak-stats.demolab.com?user=agusheryanto182&theme=algolia&border_radius=10"/> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=agusheryanto182&theme=algolia&border_radius=10"/>
 </div>
 
 <!-- Activity Graph -->
