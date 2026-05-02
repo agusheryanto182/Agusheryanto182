@@ -6,7 +6,12 @@
 
 **Software Engineer**
 
-*Building a reliable end-to-end application, with a focus on backend architecture, performance, clean code, and scalable infrastructure.*
+<p align="center">
+<samp>
+  Building seamless end-to-end applications, combining user-centric frontend <br> 
+  experiences with robust backend architecture and scalable infrastructure.
+</samp>
+</p>
 
 <br/>
 
