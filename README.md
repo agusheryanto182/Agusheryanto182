@@ -10,10 +10,21 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-agusheryanto.com-6173f4?style=for-the-badge&logo=vercel&logoColor=white)](https://agusheryanto.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agusheryanto.business@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agus-heryanto)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/agusheryanto182/)
+<!-- Portfolio & Social Links -->
+<p align="center">
+  <a href="https://agusheryanto.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-agusheryanto.com-6173f4?style=for-the-badge" alt="Portfolio">
+  </a>
+  <a href="mailto:agusheryanto.business@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/agus-heryanto/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/agusheryanto182/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
 
 <img src="https://komarev.com/ghpvc/?username=agusheryanto182&style=flat-square&color=blue&label=Profile+views" alt="Profile views"/>
 
