@@ -4,7 +4,7 @@
 
 # Hi, I'm Agus Heryanto
 
-**Software Engineer · Backend Specialist**
+**Software Engineer**
 
 *Building a reliable end-to-end application, with a focus on backend architecture, performance, clean code, and scalable infrastructure.*
 
@@ -54,10 +54,10 @@
 | Area | Tech |
 |------|--------|
 | **Backend** | ![Backend](https://skillicons.dev/icons?i=go,java,spring,nestjs,nodejs,express,laravel,php) |
+| **Frontend** | ![Frontend](https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,js,redux,zustand) |
 | **Data** | ![Data](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,supabase,redis) |
 | **Infra & DevOps** | ![Infra](https://skillicons.dev/icons?i=linux,nginx,docker,aws) |
 | **Tools** | ![Tools](https://skillicons.dev/icons?i=postman,graphql,grafana,prometheus,git) |
-| **Frontend** | ![Frontend](https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,js,redux,zustand) |
 
 ---
 
