@@ -46,9 +46,9 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=agusheryanto182&theme=algolia&border_radius=10&hide_border=true" alt="GitHub streak"/>
 
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=agusheryanto182&theme=react-dark&hide_border=true" alt="Contribution activity graph"/>
+<!-- <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=agusheryanto182&theme=react-dark&hide_border=true" alt="Contribution activity graph"/> -->
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Dev quote"/>
+<!-- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Dev quote"/> -->
 
 </div>
 
