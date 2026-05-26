@@ -66,16 +66,6 @@
 
 ---
 
-## Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=agusheryanto182&theme=algolia&column=7&margin-w=8&margin-h=8&no-frame=true" alt="GitHub trophies"/>
-
-</div>
-
----
-
 <div align="center">
 
 **Thanks for being here & happy coding >_<**
