@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="88" alt="wave"/>
+<div>
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=30&pause=1000&color=6173F4&center=true&vCenter=true&width=600&height=60&lines=%E2%9A%94%EF%B8%8F+Summoned+to+the+World+of+Code;Class%3A+Full-Stack+Engineer;Rank%3A+S+%E2%80%94+Ascending" alt="typing banner"/>
+</div>
+
+<div>
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="88" alt="wave"/>
+</div>
 
 # Hi, I'm Agus Heryanto
 
@@ -40,11 +46,10 @@
 ## Git insights
 
 <div align="center">
+<img height="165" alt="GitHub stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=agusheryanto182&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&title_color=6173f4&icon_color=6173f4"/>
+<img height="165" alt="Top languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=agusheryanto182&layout=compact&langs_count=8&theme=algolia&hide_border=true&title_color=6173f4"/>
 
-<img height="165" alt="GitHub stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=agusheryanto182&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="165" alt="Top languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=agusheryanto182&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=agusheryanto182&theme=algolia&border_radius=10&hide_border=true" alt="GitHub streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=agusheryanto182&theme=algolia&border_radius=10&hide_border=true&stroke=6173f4&ring=6173f4&fire=D14836&currStreakLabel=6173f4" alt="GitHub streak"/>
 
 <!-- <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=agusheryanto182&theme=react-dark&hide_border=true" alt="Contribution activity graph"/> -->
 
@@ -68,6 +73,20 @@
 
 <div align="center">
 
-**Thanks for being here & happy coding >_<**
+## 🌌 THE PATH AHEAD
+
+<samp>
+
+*Every commit is a step deeper into the unknown.*<br>
+*Every bug slain makes the next boss weaker.*<br>
+*The final dungeon has no floor — and that's exactly why I keep descending.*
+
+</samp>
+
+<br/>
+
+**⟡ Thanks for crossing into my world, traveler. May your builds pass on the first try. ⟡**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6173f4&height=100&section=footer" width="100%" alt="footer wave"/>
 
 </div>
