@@ -1,5 +1,7 @@
 <div align="center">
 
+[![wakatime](https://wakatime.com/badge/user/373858ff-676b-46c4-b8ec-4b052bdeec35.svg)](https://wakatime.com/@373858ff-676b-46c4-b8ec-4b052bdeec35)
+
 <div>
   <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=30&pause=1000&color=6173F4&center=true&vCenter=true&width=600&height=60&lines=%E2%9A%94%EF%B8%8F+Summoned+to+the+World+of+Code;Class%3A+Full-Stack+Engineer;Rank%3A+S+%E2%80%94+Ascending" alt="typing banner"/>
 </div>
